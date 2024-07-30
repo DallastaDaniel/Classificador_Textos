@@ -1,4 +1,5 @@
 {
+  "nome": "Projeto_Padrao_Python"
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 2
